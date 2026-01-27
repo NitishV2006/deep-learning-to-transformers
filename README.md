@@ -24,4 +24,5 @@ NLP Intelligence System with:
 - Sentiment Analysis
 - Keyword Extraction
 - REST API
-Conflict test from local branch
+Conflict test from local branch  
+Conflict test from GitHub UI
